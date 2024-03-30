@@ -21,5 +21,5 @@ Just run:
 bash /opt/scripts/pyupdater-plex/plex-updater-runner.sh
 ```
 
-# Running Automaticall
+# Running Automatically
 To run automatically, just use a cronjob.
