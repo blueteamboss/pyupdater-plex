@@ -23,3 +23,6 @@ bash /opt/scripts/pyupdater-plex/plex-updater-runner.sh
 
 # Running Automatically
 To run automatically, just use a cronjob.
+
+# Config File
+The config file can be changed (not now, in the future) to support other distros/package managers, as well as using beta release channels. Right now, none of that is in use, but there are plans to add that in the future.
