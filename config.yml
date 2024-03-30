@@ -1,0 +1,20 @@
+
+# Base 64 Encoded Plex Token
+# https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
+token: ''
+
+# Supported archs: "x86_64" | "x86" | "aarch64" | "armv7neon" | 
+arch: 'x86_64'
+
+# Supported OS Types: 'Windows' | 'Linux' | 'MacOS'
+os: 'Linux'
+
+# Only used if os == 'Linux'
+# Supported package types sc"debian" (.deb)| "redhat" (.rpm)
+packaging: 'debian'
+
+# Set to True if you want to run beta releases
+beta: False
+
+# Releases URL (where we get the latest available versions):
+source: 'https://plex.tv/api/downloads/5.json'
