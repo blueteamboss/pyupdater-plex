@@ -8,6 +8,8 @@ import hashlib
 import requests
 import yaml
 
+# Testing change for Git Signing
+
 class PlexAutoUpdater:
     """
         This method handles updating Plex automatically
